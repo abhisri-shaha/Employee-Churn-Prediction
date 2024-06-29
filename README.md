@@ -12,7 +12,7 @@ As a data specialist working for Salifort Motors, you have received the results 
 
 ## EDA (Exploratory Data Analysis)
 ### Data exploration
-- **Dataset**: The dataset includes employee information such as satisfaction level, last performance review, number of projects, average monthy hours, tenure, department, salary, etc.
+- **Dataset**: The dataset is fictional. It includes employee information such as satisfaction level, last performance review, number of projects, average monthy hours, tenure, department, salary, etc.
 - **Size**: There are 14999 entries in the dataset.
 - **Basic information**: Number of non-null entries in each column and their respective datatypes.
 - **Descriptive statistics**: Key metrics such as mean, standard deviation, minimum, maximum, etc.
@@ -25,7 +25,7 @@ As a data specialist working for Salifort Motors, you have received the results 
 - **Box Plots**: Examine the spread of values in various columns
 - **Histograms**: Explore the distribution of variables
 - **Scatter Plots**: Explore correlations between different features
-- **Heatmap**: Visualize correlation between every pair of variables
+- **Heatmap**: Visualize correlation between all pairs of variables
 
 
 ## Models and Evaluation Metrics
@@ -51,8 +51,7 @@ As a data specialist working for Salifort Motors, you have received the results 
 
 
 ## Future Work
-- Enhance model generalization to avoid overfitting.
-- Integrate more diverse data sources to improve prediction accuracy.
+- **Integrate Ensemble Methods**: Explore ensemble techniques like Random Forest, Gradient Boosting, or XGBoost to improve prediction accuracy and model robustness.
 
 ## Conclusion
-The models and the feature importances extracted from the models confirm that employees at the company are overworked.
+The models and the feature importances extracted from the models confirm that employees at the company are overworked, highlighting the need for improved workload management to enhance retention.
